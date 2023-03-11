@@ -5,7 +5,10 @@
 
 - 🌱 Estoy por aprender **Type Script**
 
-- 👨‍💻 Mis proyectos estarán próximamente en [(linkportafolio)]((linkportafolio))
+- 👨‍💻 Estos son algunos de mis proyectos: 
+                                          [PI-SoyHenry(countries)(repo)](https://github.com/stefanogemelli/Proyecto-Individual-Henry)
+                                          [Front-end ecommerce (repo)](https://github.com/stefanogemelli/FoodEcommerce)
+                                          [Rick&Morty SPA (front-end)(deploy)](https://rickandmorty-spa-react.netlify.app/)
 
 - 📫 Contáctame por **stefanogemelli06@gmail.com** o [mi perfil de linkedin](https://www.linkedin.com/in/stefano-gemelli-b99186245/)
 
