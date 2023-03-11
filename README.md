@@ -7,7 +7,7 @@
 
 - 👨‍💻 Mis proyectos estarán próximamente en [(linkportafolio)]((linkportafolio))
 
-- 📫 Contáctame por **stefanogemelli06@gmail.com**
+- 📫 Contáctame por **stefanogemelli06@gmail.com** o [linkedin](https://www.linkedin.com/in/stefano-gemelli-b99186245/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
