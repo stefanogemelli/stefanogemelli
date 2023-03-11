@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy Stefano</h1>
 <h3 align="center">Un desarrollador fullstack de Argentina.</h3>
 
-- 🔭Actualmente estoy trabajando en [petfriendlyuniverse](https://petfriendlyuniverse.vercel.app/)
+- 🔭Actualmente estoy trabajando en [petfriendlyuniverse](https://petfriendlyuniverse.vercel.app/) (el proyecto final de SoyHenry)
 
-- 🌱 Actualmente estoy aprendiendo **Type Script,**
+- 🌱 Estoy por aprender **Type Script**
 
 - 👨‍💻 Mis proyectos estarán próximamente en [(linkportafolio)]((linkportafolio))
 
