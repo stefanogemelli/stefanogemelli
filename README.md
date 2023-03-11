@@ -3,7 +3,7 @@
 
 - 🔭Actualmente estoy trabajando en [petfriendlyuniverse](https://petfriendlyuniverse.vercel.app/)
 
-- 🌱 I’m currently learning **Type Script,**
+- 🌱 Actualmente estoy aprendiendo **Type Script,**
 
 - 👨‍💻 Mis proyectos estarán próximamente en [(linkportafolio)]((linkportafolio))
 
