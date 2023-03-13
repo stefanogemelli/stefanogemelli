@@ -3,7 +3,7 @@
 
 - 🔭Actualmente estoy trabajando en [petfriendlyuniverse](https://petfriendlyuniverse.vercel.app/) (el proyecto final de SoyHenry)
 
-- 🌱 Estoy por aprender **Type Script**
+- 🌱 Estoy interesado en aprender sobre **Type Script, microservicios, docker, kubernetes y WebSockets**
 
 - 👨‍💻 Estos son algunos de mis proyectos:
 
