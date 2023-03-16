@@ -6,10 +6,10 @@
   - [Imanol Dominguez](https://github.com/imadominguez)
   - [Federico Almeida](https://github.com/FedericoA15)
   - [Pablo Amico](https://github.com/pablosecuen)
+  - [Florencia Marcos](https://github.com/FlorenciaMarcos)
   - [Maximiliano Permingeat](https://github.com/mpermingeat)
   - [Agustin Chavero](https://github.com/AgustinChavero)
   - [Benjamin Castro](https://github.com/Yuarinaim)
-  - [Florencia Marcos](https://github.com/FlorenciaMarcos)
 
 - 🌱 Estoy aprendiendo **TypeScript**, **Docker** y **Kubernetes**
 
