@@ -1,17 +1,7 @@
 <h1 align="center">Hola 👋, soy Stefano</h1>
 <h3 align="center">Un desarrollador fullstack de Argentina.</h3>
 
-- 🔭 Actualmente estoy trabajando en [Pet Friendly Universe](https://github.com/PetFriendlyUniverse/Henry-Pf) en colaboración con:
-
-  - [Imanol Dominguez](https://github.com/imadominguez)
-  - [Federico Almeida](https://github.com/FedericoA15)
-  - [Pablo Amico](https://github.com/pablosecuen)
-  - [Florencia Marcos](https://github.com/FlorenciaMarcos)
-  - [Maximiliano Permingeat](https://github.com/mpermingeat)
-  - [Agustin Chavero](https://github.com/AgustinChavero)
-  - [Benjamin Castro](https://github.com/Yuarinaim)
-
-- 🌱 Estoy aprendiendo **TypeScript**, **Docker** y **Kubernetes**
+- 🌱 Actualmente estoy aprendiendo **TypeScript**, **GraphQL**, **NextJS** en frontend y **Python** y **MongoDB** en backend.
 
 - 👨‍💻 Estos son algunos de mis proyectos:
 
