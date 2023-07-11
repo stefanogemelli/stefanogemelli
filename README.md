@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Stefano</h1>
 <h3 align="center">Un desarrollador fullstack de Argentina.</h3>
 
-- 🌱 Actualmente estoy aprendiendo sobre la arquitectura de microservicios, **Docker** y **MongoDB**
+- 🌱 Actualmente estoy aprendiendo sobre la **arquitectura de microservicios**, **Docker** y **MongoDB**
 
 - 👨‍💻 Estos son algunos de mis proyectos:
 
