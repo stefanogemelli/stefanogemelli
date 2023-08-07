@@ -1,13 +1,13 @@
 <h1 align="center">Hola 👋, soy Stefano</h1>
 <h3 align="center">Un desarrollador fullstack de Argentina.</h3>
 
-- 🌱 Actualmente estoy aprendiendo sobre la **arquitectura de microservicios**, **Docker** y **MongoDB**
+- 🌱 Actualmente estoy aprendiendo **patrones de diseño** e incorporando **nuevas tecnologías** a mi stack.
 
-- 👨‍💻 Estos son algunos de mis proyectos:
+- 👨‍💻 Estos son los últimos poyectos en los que trabajé:
 
+  - [Urban-movi (deploy)](https://urban-movi.vercel.app/) - [(repo)](https://github.com/pablosecuen/Urban-movi)
+  - [PetFriendly Universe(deploy)](https://petfriendlyuniverse.vercel.app/) - [(repo)](https://github.com/PetFriendlyUniverse/Henry-Pf)
   - [PI-SoyHenry(countries)(repo)](https://github.com/stefanogemelli/Proyecto-Individual-Henry)
-  - [Front-end ecommerce (repo)](https://github.com/stefanogemelli/FoodEcommerce)
-  - [Rick&Morty SPA (front-end)(deploy)](https://rickandmorty-spa-react.netlify.app/)
 
 - 📫 Contáctame por **stefanogemelli06@gmail.com** o [mi perfil de linkedin](https://www.linkedin.com/in/stefano-gemelli-b99186245/)
 
