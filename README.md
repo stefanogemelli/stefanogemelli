@@ -1,13 +1,14 @@
 <h1 align="center">Hola 👋, soy Stefano</h1>
-<h3 align="center">Un desarrollador fullstack de Argentina.</h3>
+<h3 align="center">Un desarrollador fullstack argentino.</h3>
 
-- 🌱 Actualmente estoy aprendiendo **patrones de diseño** e incorporando **nuevas tecnologías** a mi stack.
+- 🌱 Actualmente estoy aprendiendo patrones de diseño actualizando mi stack tecnológico.
 
 - 👨‍💻 Estos son los últimos poyectos en los que trabajé:
 
-  - [Urban-movi (deploy)](https://urban-movi.vercel.app/) - [(repo)](https://github.com/pablosecuen/Urban-movi)
-  - [PetFriendly Universe(deploy)](https://petfriendlyuniverse.vercel.app/) - [(repo)](https://github.com/PetFriendlyUniverse/Henry-Pf)
-  - [PI-SoyHenry(countries)(repo)](https://github.com/stefanogemelli/Proyecto-Individual-Henry)
+  - Discord-Clone [web](https://discord-clone-three-amber.vercel.app/) - [repositorio](https://github.com/stefanogemelli/discord-clone)
+  - Trello-Clone [web](https://trello-clone-taskify.vercel.app/) - [repositorio](https://github.com/stefanogemelli/trello-clone)
+  - Django-Blog [repositorio](https://github.com/stefanogemelli/Django-Blog)
+  - PetFriendly Universe[web](https://petfriendlyuniverse.vercel.app/) - [repositorio](https://github.com/PetFriendlyUniverse/Henry-Pf)
 
 - 📫 Contáctame por **stefanogemelli06@gmail.com** o [mi perfil de linkedin](https://www.linkedin.com/in/stefano-gemelli-b99186245/)
 
